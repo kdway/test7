@@ -1,0 +1,26 @@
+
+
+.form2{
+ 
+    margin-top: 10px;
+    margin-left: 55em;
+    padding: 10px;
+  }
+  .member{
+    font-family: 'Raleway', sans-serif;
+      text-align: center;
+  }
+  .form2 label{
+
+    font-family: 'Raleway', sans-serif;
+  }
+  .form2 input{
+    font-family: 'Raleway', sans-serif;
+    border-radius: 5px;
+    width: 27em;
+
+  }
+  .form2 button{
+    width: 150px;
+    margin-left: 9em;
+  }

@@ -1,0 +1,11 @@
+#details{
+margin-left: 20px;
+margin-top: 60px;
+display: flex;
+}
+#details img{
+    margin-top: -35px;
+    width: 400px;
+    height: 450px;
+    border-radius: 7px;
+}
